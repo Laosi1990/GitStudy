@@ -20,4 +20,4 @@
 	$ git commit -m "this is notice for todo"
 ```
 
-### git reset HEAD 测试修改问阿金
+### git reset HEAD 测试修改问阿金 测试
