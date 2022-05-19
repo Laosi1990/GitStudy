@@ -1,5 +1,6 @@
 ## git命令
 
+
 #### git add . 添加所有文件
 
 ```bash
@@ -19,3 +20,4 @@
 	$ git commit -m "this is notice for todo"
 ```
 
+### git reset HEAD 测试修改问阿金
